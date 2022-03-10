@@ -1,6 +1,6 @@
 # Contributor success marketplace 
 
-This repository brings together opportunities to contribute and people interested in contributing. See [ssues](https://github.com/MicrosoftDocs/contributing/issues) and [projects](https://github.com/MicrosoftDocs/contributing/projects). 
+This repository brings together opportunities to contribute and people interested in contributing. See [issues](https://github.com/MicrosoftDocs/contributing/issues) and [projects](https://github.com/MicrosoftDocs/contributing/projects). 
 
 # Contributing
 
